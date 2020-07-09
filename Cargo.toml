@@ -6,7 +6,7 @@ edition = "2018"
 description = "Shortcut to calling `git status`"
 license = "MIT"
 homepage = "https://github.com/hbina/gits"
-respository = "https://github.com/hbina/gits"
+repository = "https://github.com/hbina/gits"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
